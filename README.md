@@ -12,5 +12,5 @@
     --> Refer the feature extraction in : https://github.com/phamdanglam/Feature-Extraction-Acoustic-Scene-Classification-DCASE2016-2018    
     
 # Notes:
-- This Code follow the CNN archietecture mentioned in the paper.
+- This Code follow the CNN architecture mentioned in the published paper in section '01_Doc'.
 
