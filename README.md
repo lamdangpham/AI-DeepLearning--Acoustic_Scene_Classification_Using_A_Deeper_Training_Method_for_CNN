@@ -5,8 +5,8 @@
     + Published Paper:
 
 - 02_Code:
-    + 01_train_3_first_cnn_layers: Training codes for the first three convolutional layers
-    + 02_train_final_cnn_layer: Training codes for the final convolutional layer
+    + 01_train_3_first_cnn_layers: Training code for the first three convolutional layers
+    + 02_train_final_cnn_layer: Training code for the final convolutional layer
     
     
 # Notes:
