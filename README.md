@@ -2,8 +2,8 @@
 
 # Hierarchy
 - 01_Doc: 
-    + Published Paper:
-
+    + Published Paper: Acoustic Scene Classification Using A Deeper Training Method for Convolution Neural Networks.pdf
+    
 - 02_Code:
     + 01_train_3_first_cnn_layers: Training code for the first three convolutional layers
     + 02_train_final_cnn_layer: Training code for the final convolutional layer
