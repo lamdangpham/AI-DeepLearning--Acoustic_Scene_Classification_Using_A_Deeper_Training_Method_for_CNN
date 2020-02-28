@@ -8,7 +8,7 @@
     + 01_train_3_first_cnn_layers: Training code for the first three convolutional layers
     + 02_train_final_cnn_layer: Training code for the final convolutional layer
     
-- Readme file    
+- Readme file: README.md    
     
     
 # Notes:
